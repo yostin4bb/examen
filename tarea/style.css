@@ -1,0 +1,31 @@
+a img{
+    width:250px;
+    position: left;
+}
+ 
+header{
+    background-image: url(https://s1.1zoom.me/big3/670/356680-admin.jpg);
+    background-repeat: no-repeat; 
+    background-position: center ;
+    background-size: contain;
+    background-attachment: rgb(245, 79, 14);
+    }
+    main img{
+        width: 300px;
+    }
+    
+    footer{
+        background-color: rgb(239, 254, 255);
+        color: rgb(255, 0, 242);
+        border-radius:15px ;
+
+    }
+    footer p{
+        display: flex;
+    }
+    button{
+        color: rgb(89, 14, 209);
+        background-color: blanchedalmond;
+        cursor: pointer;
+    }
+
